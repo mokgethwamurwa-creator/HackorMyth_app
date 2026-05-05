@@ -32,3 +32,6 @@ I Pushed my code after each part so I don't lose it. Added GitHub Actions so it 
 // Video
 video link ' https://youtu.be/v73t6_cpxgc '
 
+//screenshots
+home screen / quiz screen and results screen
+
